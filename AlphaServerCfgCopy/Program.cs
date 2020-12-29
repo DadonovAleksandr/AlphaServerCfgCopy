@@ -10,6 +10,7 @@ namespace AlphaServerCfgCopy
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
